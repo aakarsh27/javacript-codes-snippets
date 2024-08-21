@@ -1,0 +1,25 @@
+#heading{
+    background-color: pink;
+    color: yellow;
+}
+.heading3{
+    background-color: green;
+    color:white;
+}
+
+p{
+    color: blue
+}
+
+button{
+    background-color: red;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 5px;
+    background-color: aqua;
+}
