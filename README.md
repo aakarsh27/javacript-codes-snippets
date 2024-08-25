@@ -9,4 +9,4 @@ it was all good till DOM. after it got into something that requires intense prac
 
 still need to learn API linking and all of that
 
-i'll start
+i'll start back in
