@@ -11,4 +11,3 @@ still need to learn API linking and all of that
 
 i'll start back in college because i am lazy
 
-starting tomorrow
