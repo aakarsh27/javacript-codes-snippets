@@ -10,3 +10,5 @@ it was all good till DOM. after it got into something that requires intense prac
 still need to learn API linking and all of that
 
 update: i am back on track
+
+i also learnt api now
