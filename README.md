@@ -15,4 +15,4 @@ i also learnt api now
 
 need to make a project now. 
 
-done learning havascript
+done learning javascript
