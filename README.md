@@ -19,7 +19,7 @@ done learning javascript. now i need to start learning ReactJs
 
 links to my projects i made while learning javascript:
 
-1.
+1.1. [*password generator*](https://github.com/aakarsh27/password-generator)
 
 2.
 
