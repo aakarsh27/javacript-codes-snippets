@@ -23,4 +23,4 @@ links to my projects i made while learning javascript:
 
 2.
 
-3.
+3. [*TIC-TAC-TOE*](https://github.com/aakarsh27/tic-tac-toe-js)
