@@ -23,4 +23,4 @@ links to my projects i made while learning javascript:
 
 2.
 
-3. [*C*](https://github.com/aakarsh27/tic-tac-toe-js)
+3. [*Currency *](https://github.com/aakarsh27/tic-tac-toe-js)
