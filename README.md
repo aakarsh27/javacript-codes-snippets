@@ -21,6 +21,6 @@ links to my projects i made while learning javascript:
 
 1. [*TIC-TAC-TOE*](https://github.com/aakarsh27/tic-tac-toe-js)
 
-2. [*ROCK*]
+2. [*ROCK-PAPER-SCISSORS*]
 
 3. [*Currency Exchanger*](https://github.com/aakarsh27/currency-exchanger)
