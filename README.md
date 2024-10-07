@@ -7,7 +7,7 @@ so much learning to do my head hurts. what even is this
 
 it was all good till DOM. after it got into something that requires intense practice
 
-still need to learn API linking and 
+still need to learn API linking 
 
 update: i am back on track
 
