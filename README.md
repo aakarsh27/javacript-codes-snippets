@@ -7,8 +7,6 @@ so much learning to do my head hurts. what even is this
 
 it was all good till DOM. after it got into something that requires intense practice
 
-
-
 update: i am back on track
 
 i also learnt api now
