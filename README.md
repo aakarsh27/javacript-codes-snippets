@@ -24,4 +24,4 @@ links to my projects i made while learning javascript:
 3. [*Currency Exchanger*](https://github.com/aakarsh27/currency-exchanger)
 
 
-n
+now
