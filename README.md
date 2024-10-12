@@ -24,5 +24,5 @@ links to my projects i made while learning javascript:
 3. [*Currency Exchanger*](https://github.com/aakarsh27/currency-exchanger)
 
 
-now i need to make a react repository to show my learning
+now i need to make a react repository to show my learning track
 
