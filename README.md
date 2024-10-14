@@ -25,4 +25,3 @@ links to my projects i made while learning javascript:
 
 
 now i need to make a react repository to show my learning track
-
